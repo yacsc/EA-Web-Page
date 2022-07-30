@@ -32,7 +32,7 @@ export const App: React.FunctionComponent = () => {
         <Link href="https://twitter.com/fluentui">Twitter</Link>
       </Stack>
       <Text variant="large" styles={boldStyle}>
-        Designing a cool system
+        Designing a cool system :)
       </Text>
       <Stack horizontal tokens={stackTokens} horizontalAlign="center">
         <Link href="https://developer.microsoft.com/en-us/fluentui#/styles/web/icons">Icons</Link>
